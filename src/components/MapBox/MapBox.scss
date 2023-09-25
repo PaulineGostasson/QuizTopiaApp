@@ -1,0 +1,15 @@
+
+.mapbox {
+  position: relative;
+  width: 100%;
+
+  &__p {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 0.6rem;
+    text-transform: uppercase;
+    z-index: 1;
+  }
+}

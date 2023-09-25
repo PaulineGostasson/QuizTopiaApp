@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(79deg, #7439db, #C66FBC 48%, #F7944D);
+}
+button{
+    margin: 5px;
+}
+
+.UserProfile-ruleList{
+    display: flex;
+    align-items: left;
+    margin: 3px;
+}
+
+.UserProfile-quiz{
+    background-color: rgba(0, 0, 0, 0.29);
+}
+
+h1{
+    font-size: 4rem;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.851);
+
+}
