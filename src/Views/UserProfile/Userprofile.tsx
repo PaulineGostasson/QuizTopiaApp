@@ -2,7 +2,7 @@
 import { useState, ChangeEvent } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { createQuiz } from '../../api/QuizFunctions';
-import QuizList from '../../components/QuizIdItem/QuizList'
+import QuizList from '../../components/QuizList/QuizList'
 import './UserProfile.css'
 
 
